@@ -409,8 +409,8 @@
     padding-bottom:10px;
     padding-left:20px;
   }
-  .cardImg{
-    width:100%;
+   .cardImg{
+    width:auto;
   }
   .text-blk.headingText{
     font-size:40px;
